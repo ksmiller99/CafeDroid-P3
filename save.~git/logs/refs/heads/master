@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 b5963ac7b5000b188246a40282de187e06c97f24 Kevin S. Miller <ksmiller99@gmail.com> 1481225202 -0500	commit (initial): Add .gitignore and .gitattributes.
+b5963ac7b5000b188246a40282de187e06c97f24 137882202bd6efaeab1620368965ce4f8355a99e Kevin S. Miller <ksmiller99@gmail.com> 1481225209 -0500	commit: Add project files.
+137882202bd6efaeab1620368965ce4f8355a99e 166fbb1e41296539b980109b2a3bc868ce39c78a Kevin S. Miller <ksmiller99@gmail.com> 1481229908 -0500	commit: Completed step "Create the Data Access Layer"
+166fbb1e41296539b980109b2a3bc868ce39c78a 1d9aa2ad21d24856db971ccb256a97aabe6802f0 Kevin S. Miller <ksmiller99@gmail.com> 1481318464 -0500	commit: "UI and Navigation" completed
+1d9aa2ad21d24856db971ccb256a97aabe6802f0 72f2096094748c75ff5ce8360af1ed4fd4f8d8c3 Kevin S. Miller <ksmiller99@gmail.com> 1481725144 -0500	merge 72f2096094748c75ff5ce8360af1ed4fd4f8d8c3: Fast-forward
+72f2096094748c75ff5ce8360af1ed4fd4f8d8c3 b281c9905fd33b4be9fe66fb73867c7cd5902c81 Kevin S. Miller <ksmiller99@gmail.com> 1481739416 -0500	merge b281c9905fd33b4be9fe66fb73867c7cd5902c81: Fast-forward
+b281c9905fd33b4be9fe66fb73867c7cd5902c81 a53625798e93710bfb9abd4e02fdf23453638496 Kevin S. Miller <ksmiller99@gmail.com> 1481745431 -0500	merge a53625798e93710bfb9abd4e02fdf23453638496: Fast-forward
